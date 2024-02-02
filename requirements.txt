@@ -12,7 +12,7 @@ scipy
 numpy==1.22.3
 pandas==1.4.2
 plotly==5.7.0
-dash==2.3.1
+dash==2.15.0
 pycountry-convert==0.7.2
 openpyxl==3.0.9
 statsmodels
